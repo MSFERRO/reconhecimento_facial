@@ -1,0 +1,5 @@
+# Arquivos temporários do sistema
+
+__pycache__/
+*.pyc
+venv/
